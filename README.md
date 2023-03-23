@@ -5,6 +5,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<div>
+   <a href="https://github.com/Taashev">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taashev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taashev&layout=compact&langs_count=6&theme=gotham"/>
+</div>
+
 ### Skills
 
 <p align="left">
