@@ -6,8 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 
 <div align="center">
-  [![codewars](https://www.codewars.com/users/taashev/badges/large)](https://www.codewars.com/users/taashev)
-</div>
+[![codewars](https://www.codewars.com/users/taashev/badges/large)](https://www.codewars.com/users/taashev)
 
 <div align="center"> 
   <a href = "mailto:taashev.a.r@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
