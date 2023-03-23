@@ -5,7 +5,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div align="center">
 [![codewars](https://www.codewars.com/users/taashev/badges/large)](https://www.codewars.com/users/taashev)
 
 <div align="center"> 
