@@ -14,9 +14,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 <div>
-   <a href="https://github.com/Taashev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taashev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taashev&layout=compact&langs_count=6&theme=gotham"/>
+  <a href="https://github.com/Taashev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taashev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+<div>
+  <a href="https://github.com/Taashev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taashev&layout=compact&langs_count=6&theme=gotham"/>
+  </a>
 </div>
 
 
