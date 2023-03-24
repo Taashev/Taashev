@@ -11,12 +11,16 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="React" /></a> &nbsp;
 </div>
 
-<div align="center"> 
+<br />
+
+<div align="center">
   <a href = "mailto:taashev.a.r@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arsen-taashev-b5238020b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://t.me/taashev" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://leetcode.com/taashev/" target="_blank"><img src="https://img.shields.io/badge/-LoeetCode-fff?style=for-the-badge&logo=leetcode&logoColor=orange" target="_blank"></a>
 </div>
+
+<br />
 
 <div>
   <a href="https://github.com/Taashev">
@@ -24,6 +28,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taashev&layout=compact&langs_count=6&theme=gotham"/>
   </a>
 </div>
+
+<br />
 
 [![codewars](https://www.codewars.com/users/taashev/badges/large)](https://www.codewars.com/users/taashev)
 
