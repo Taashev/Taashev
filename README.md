@@ -2,69 +2,66 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="coder gif" />
 </div>
 
-<h1 align="center">Арсен Таашев</h1>
+<h1 align="center">Arsen Taashev</h1>
 <h3 align="center">Backend Node.js Developer</h3>
 
 <p align="center">
-  Разрабатываю backend-сервисы на Node.js / TypeScript с упором на чистую архитектуру,
-  API, базы данных, производительность и надёжность.
+  I build backend services using Node.js and TypeScript, focusing on clean architecture,
+  API design, databases, performance, and reliability.
 </p>
 
 ---
 
-## Основной стек
+## Core Stack
 
 <p align="center">
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org/en">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="node.js" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="ts" />
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" />
   </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+  <a href="https://nestjs.com/">
     <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" />
   </a>
-  <a>
-    <img src="https://skillicons.dev/icons?i=express" alt="exress" />
+  <a href="https://expressjs.com/">
+    <img src="https://skillicons.dev/icons?i=express" alt="express" />
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" />
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" />
   </a>
-  <a>
+  <a href="https://redis.io/">
     <img src="https://skillicons.dev/icons?i=redis" alt="redis" />
   </a>
-  <a>
+  <a href="https://www.docker.com/">
     <img src="https://skillicons.dev/icons?i=docker" alt="docker" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" alt="git" />
-  </a>
-  <a>
-    <img src="https://skillicons.dev/icons?i=github" alt="github" />
   </a>
 </p>
 
 ---
 
-## О себе
+## About Me
 
-Backend-разработчик, который делает упор не только на то, чтобы код работал,  
-но и на то, чтобы его можно было поддерживать, масштабировать и развивать без хаоса.
-
----
-
-## Что мне интересно
-
-- архитектура backend сервисов
-- проектирование надёжных API
-- SQL и производительность запросов
-- микросервисный подход
-- отказоустойчивость, поддерживаемость кода
-- красивый выразительный код
+Backend developer focused not only on making things work,  
+but on building systems that are maintainable, scalable, and structured.
 
 ---
 
-## Контакты
+## Interests
+
+- backend architecture
+- designing reliable APIs
+- SQL and query performance
+- microservices
+- reliability and maintainability
+- clean and expressive code
+
+---
+
+## Contacts
 
 <p align="center">
   <a href="mailto:taashev.a.r@gmail.com">
@@ -83,7 +80,7 @@ Backend-разработчик, который делает упор не тол
 
 ---
 
-## GitHub статистика
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Taashev">
